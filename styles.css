@@ -1,0 +1,11 @@
+.contenido {
+  display: none; /* Oculta el contenido por defecto */
+  text-align: center;
+  margin: 20px;
+}
+
+.imagen {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
